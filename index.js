@@ -36,7 +36,7 @@ app.config(function($routeProvider){
 
  app.component('appPage', {
 
-      templateUrl: '/nf/Redux/app.html',
+      templateUrl: 'app.html',
       controller:'appController'
     });;
 
